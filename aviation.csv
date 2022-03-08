@@ -1,0 +1,2 @@
+,state,state_full,city,volume,airport_name,military,faa_ident,icao_ident,chart_seq,chart_code,chart_name,pdf_name,pdf_path
+0,NC,NORTH CAROLINA,ASHEVILLE,SE-2,ASHEVILLE RGNL,N,AVL,KAVL,10100,MIN,TAKEOFF MINIMUMS,SE2TO.PDF,https://charts.aviationapi.com/AIRAC_220224/SE2TO.PDF
